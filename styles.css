@@ -14,7 +14,7 @@ body {
 
 /* Estilos para la cabecera */
 header {
-    background-color: #03ff4f;
+    background-color: rgb(255, 0, 128);
     color: white;
     padding: 20px;
     text-align: center;
